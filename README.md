@@ -1,6 +1,6 @@
-# Fixposure Support Site
+# PresetCam Support Site
 
-iOSマニュアルカメラアプリ「Fixposure」のサポート・プライバシーポリシーサイトです。
+iOSマニュアルカメラアプリ「PresetCam」のサポート・プライバシーポリシーサイトです。
 
 ## 公開ページ / Published Pages
 
